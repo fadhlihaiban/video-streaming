@@ -1,2 +1,8 @@
 username: adminutama2@email.com , password: 12345678
 username: customer2@email.com , password: 12345678
+
+fitur:
+- tambah dan edit daftar video
+- tambah dan edit daftar customer
+- request video (belum bisa)
+- menonton video (belum bisa)
