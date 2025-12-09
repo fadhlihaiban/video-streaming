@@ -1,2 +1,0 @@
-username: adminutama2@email.com , password: 12345678
-username: customer2@email.com , password: 12345678
